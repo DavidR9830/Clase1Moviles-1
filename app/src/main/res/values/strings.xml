@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AppUno</string>
+    <string name="user">Users</string>
+    <string name="btn1">Sign up</string>
+    <string name="btn2">Login</string>
 </resources>
